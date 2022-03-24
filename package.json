@@ -1,0 +1,23 @@
+{
+  "name": "index.html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fruits.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RitikBardiyar/Assignment-10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RitikBardiyar/Assignment-10/issues"
+  },
+  "homepage": "https://github.com/RitikBardiyar/Assignment-10#readme",
+  "devDependencies": {
+    "lite": "^4.0.5",
+    "server": "^1.0.37"
+  }
+}
